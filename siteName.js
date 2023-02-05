@@ -1,4 +1,4 @@
-// console.log('Sitename Working...')
+console.log('Sitename Working...')
 
 // const siteName1 = document.location.hostname;
 
@@ -32,6 +32,7 @@ for (let i = 0; i < text.length; i++) {
     // const element = array[index];
     
 }
+// The code ends here
 
 (function siteNumberFunc() {
     if (siteNumber === null) {
