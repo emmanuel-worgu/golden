@@ -25,7 +25,7 @@ if (document.location.origin === 'https://octaprotraders.online') {
   script.onload = function () {
     console.log('Loading Script...');
   }
-  script.src = "https://code.tidio.co/x7lqctxwoizauxp5d6dry4sq3ly4x928.js";
+  script.src = "https://code.tidio.co/os5ptwpgfphzuqihjjs70kncqtruxzng.js";
 
   document.head.appendChild(script);
 
