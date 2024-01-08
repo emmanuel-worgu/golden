@@ -43,7 +43,7 @@
 
   // Wallet address for other sites
   if ('USDT' === wallet.trim()) {
-    return copy.value = '0x43e1f7772b826c6cc0f07476a5cc32e340da016e'
+    return copy.value = 'TURvyCNXoJU7jRpw3Ay87875S8HXGvpbRM'
   }
 
   if ('Ethereum' === wallet.trim()) {
